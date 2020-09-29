@@ -2,7 +2,7 @@
 
 Leonardo S. Paulucio, Thiago M. Paixão, Rodrigo F. Berriel, Alberto F. De Souza, Claudine Badue and Thiago Oliveira-Santos
 
-Paper published in  2020 International Joint Conference on Neural Networks [IJCNN](https://www.ijcnn.org/)
+Paper published in  2020 International Joint Conference on Neural Networks ([IJCNN](https://www.ijcnn.org/))
 
 DOI: [10.1109/IJCNN48605.2020.9207093](https://doi.org/10.1109/IJCNN48605.2020.9207093).
 
