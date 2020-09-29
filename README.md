@@ -24,9 +24,9 @@ Splits created from the original Mercado Libre train set to perform the model fi
 Splits after the preprocessing stage: [Download](https://drive.google.com/drive/folders/11ey3nY4UhA_A-aqp9Xo7maTr-3IJT0Mu?usp=sharing)
 
 **Folds**: 
-- Folds created from both train and validation local splits: [Download](https://drive.google.com/drive/folders/1249DBijRF06JGLi7FQQluCKIR9Uht2WI?usp=sharing)
+- Folds created from both train and validation local splits: [Download](https://drive.google.com/drive/folders/1Uq4BvADvm93CWdXuXjfEcRdSjpaZGrSP?usp=sharing) 
 
-- Folds created from all data: [Download](https://drive.google.com/drive/folders/1Uq4BvADvm93CWdXuXjfEcRdSjpaZGrSP?usp=sharing)
+- Folds created from all data: [Download](https://drive.google.com/drive/folders/1249DBijRF06JGLi7FQQluCKIR9Uht2WI?usp=sharing)
 
 ### BibTex
 
