@@ -11,9 +11,24 @@ Natural Language Processing (NLP) has been receiving increasing attention in the
 
 [![Overview](https://github.com/lspaulucio/product-categorization-ijcnn-2020/blob/master/images/thumbnail.jpeg)](https://ieeexplore.ieee.org/document/9207093)
 
+### Dataset
 
+- Mercado Libre Data Challenge: [Link](https://ml-challenge.mercadolibre.com/downloads)
 
-#### BibTex
+- Model weights: [Download](https://drive.google.com/drive/folders/1taz_iIwJQ-AunaF5EzFZ9d39HvriKe6Q?usp=sharing)
+
+- Local splits: 
+Splits created from the original Mercado Libre train set to perform the model fine-tuning: [Download](https://drive.google.com/drive/folders/1YY8I9o-R7BvU8WGRLaUKhoOsvI1gqe-o?usp=sharing)
+
+- Processed splits: 
+Splits after the preprocessing stage: [Download](https://drive.google.com/drive/folders/11ey3nY4UhA_A-aqp9Xo7maTr-3IJT0Mu?usp=sharing)
+
+**Folds**: 
+- Folds created from both train and validation local splits: [Download](https://drive.google.com/drive/folders/1249DBijRF06JGLi7FQQluCKIR9Uht2WI?usp=sharing)
+
+- Folds created from all data: [Download](https://drive.google.com/drive/folders/1Uq4BvADvm93CWdXuXjfEcRdSjpaZGrSP?usp=sharing)
+
+### BibTex
 
 If you find this useful, consider citing:
     
