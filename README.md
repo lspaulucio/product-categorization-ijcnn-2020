@@ -13,7 +13,7 @@ Natural Language Processing (NLP) has been receiving increasing attention in the
 
 ### Dataset
 
-- Mercado Libre Data Challenge: [Link](https://ml-challenge.mercadolibre.com/downloads)
+- Mercado Libre Data Challenge: [Link](https://ml-challenge.mercadolibre.com/2019/downloads)
 
 - Model weights: [Download](https://drive.google.com/drive/folders/1taz_iIwJQ-AunaF5EzFZ9d39HvriKe6Q?usp=sharing)
 
