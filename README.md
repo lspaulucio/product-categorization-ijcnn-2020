@@ -28,6 +28,10 @@ Splits after the preprocessing stage: [Download](https://drive.google.com/drive/
 
 - Folds created from all data: [Download](https://drive.google.com/drive/folders/1249DBijRF06JGLi7FQQluCKIR9Uht2WI?usp=sharing)
 
+### Acknowledgment
+
+This  study  was  financed  in  part  by  Coordenação  de  Aperfeiçoamento  de Pessoal de Nível Superior – Brasil (CAPES) – Finance Code 001; Conselho Nacional  de  Desenvolvimento  Científico  e  Tecnológico  –  Brasil  (CNPq)  – grants 311654/2019-3, 200864/2019-0 and 311504/2017-5; and Fundação de Amparo à Pesquisa do Espírito Santo (FAPES), Brazil – grant 84304057/18
+
 ### BibTex
 
 If you find this useful, consider citing:
